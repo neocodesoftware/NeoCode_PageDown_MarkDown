@@ -1,10 +1,8 @@
 # NeoCode PageDown MarkDown
+Self contained file
 
-REQUIRES: FileMaker Server
+https://cdnjs.cloudflare.com/ajax/libs/pagedown/1.0/Markdown.Converter.min.js
 
-Put the Mardown folder in
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-:/Library/FileMaker/FileMaker Server/HTTPServer/conf
-
-:C:\Program Files\FileMaker\FileMaker Server\HTTPServer\conf
-
+https://code.google.com/archive/p/pagedown/wikis/PageDown.wiki
