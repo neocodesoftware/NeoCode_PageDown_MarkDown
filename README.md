@@ -20,3 +20,5 @@ simple
 5. 1 layout
 6. 1 webviewer
 7. 1 slide control
+
+# Screenshots
